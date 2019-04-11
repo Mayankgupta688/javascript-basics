@@ -1,0 +1,7 @@
+karellapravallika@gmail.com
+
+-- Event Model in JavaScript
+
+-- Capturing Phase 
+
+-- Bubbling Phase
