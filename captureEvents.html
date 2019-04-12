@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Capturing Events</title>
+    </head>
+
+    <body>
+        <div class="outerDiv" onclick="clickOuterDiv(event);" style="height: 500px; width: 500px; background-color: green;">
+            <div class="innerDiv" onclick="clickInnerDiv(event)" style="height: 300px; width: 300px; background-color: yellow;">
+                <input id="inputButton" type="button" value="Click Me" />
+            </div>
+        </div>
+
+        <script src="./src/captureEvent.js"></script>
+        
+    </body>
+</html>
